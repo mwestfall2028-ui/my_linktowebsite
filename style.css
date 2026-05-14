@@ -1,0 +1,43 @@
+body{
+  background:#ceebff;
+}
+p {
+  color: #3b9bde;
+  font-size: 8px
+}
+h1 {
+  font-weight: bold;
+color: #006cb8;
+  font-size:40px
+}
+img {
+  float: right;
+  height: 350;
+  width: 270px;
+  margin: 10px;
+  border-color: #3b9bde;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 24px;
+color: #3b9bde
+}
+h3 {
+  font-size: 40px;
+  color: #006cb8
+}
+ol {
+ font-weight: bold;
+  font-size: 17px;
+  color: #3097de;
+}
+  
+h4{
+  font-weight: bold;
+  font-size:24px;
+  color: #006cb8
+}
+}

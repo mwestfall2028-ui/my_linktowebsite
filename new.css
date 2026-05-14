@@ -1,0 +1,27 @@
+body {
+  background:#ffccdf;
+}
+p {
+  color: #ec4e89;
+  font-size: 8px
+}
+h1 {
+  font-weight: bold;
+  color: #eb2972;
+  font-size:40px
+}
+img {
+  float: right;
+  height: 350;
+  width: 270px;
+  margin: 10px;
+  border-color: #ec4e89;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+ul {
+  font-size: 24px; 
+ color: #ec4e89;
+}
